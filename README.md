@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Vijay1696
-- 👀 I’m interested in learning and webdesigning.
-- 🌱 I’m currently learning MCA in University of Hyderabad
-- 💞️ I’m looking to collaborate on GIT HUB to develop my skills to master level
-- 📫 How to reach me  on facebook 
-
+- 👋 Hi, i'm Balakisti Vijay
+- 🎓 Recently, I have completed Master of Computer Applications from University of Hyderabad.
+- 🌱 I’m currently looking for job oppurtunities.
+- 💞️ I’m looking to collaborate on GIT HUB to develop my skills.
+- 📫 How to reach me on vijaybalakisti275@gmail.com  
+- 💪 I have skills on programming language - C,Java.
+- 🌱 I am currently learning - .NET, Selenium, Spring.
+- <img src="https://github-readme-stats.vercel.app/api?username=vijay1696&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!---
 Vijay1696/Vijay1696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
