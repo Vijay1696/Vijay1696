@@ -5,7 +5,7 @@
 - 💪 I have skills on programming language - C,Java.
 - 🌱 I am currently learning - .NET, Selenium, Spring.
 - 📫 How to reach me on vijaybalakisti275@gmail.com
-- <img src="https://github-readme-stats.vercel.app/api?username=vijay1696&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- <img src="https://github-readme-stats.vercel.app/api?username=vijay1696&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151516">
 <!---
 Vijay1696/Vijay1696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
