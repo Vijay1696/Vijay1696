@@ -2,8 +2,8 @@
 - 🎓 Recently, I have completed Master of Computer Applications from University of Hyderabad.
 - 🌱 I’m currently looking for job oppurtunities.
 - 💞️ I’m looking to collaborate on GIT HUB to develop my skills.  
-- 💪 I have skills on programming language - C,Java.
-- 🌱 I am currently learning - .NET, Selenium, Spring.
+- 💪 I have skills on programming language - Java,sql,Html,Css,.
+- 🌱 I am currently learning - react js.
 - 📫 How to reach me on vijaybalakisti275@gmail.com
 - <img src="https://github-readme-stats.vercel.app/api?username=vijay1696&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151516">
 <!---
