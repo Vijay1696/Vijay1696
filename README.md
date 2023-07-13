@@ -1,5 +1,5 @@
 - 👋 Hi, i'm Balakisti Vijay
-- 🎓 Recently, I have completed Master of Computer Applications from University of Hyderabad.
+- 🎓 I have completed Master of Computer Applications from University of Hyderabad.
 - 🌱 I’m currently looking for job oppurtunities.
 - 💞️ I’m looking to collaborate on GIT HUB to develop my skills.  
 - 💪 I have skills on programming language - Java,sql,Html,Css,.
